@@ -10,7 +10,7 @@ Avery is a cuddly companion designed to grow with your child. It’s not just a 
 
 # Avery
 
-<br><img src="./assets/avery.png" alt="Avery" width="150"/><br>
+<br><img src="./assets/avery.png" alt="Avery" width="250"/><br>
 Avery is a voice-enabled AI toy that listens, learns, and helps kids explore safely. It’s designed to be a caring companion, not just another gadget.
 
 We believe every child deserves a friend who listens — and every parent deserves peace of mind.
